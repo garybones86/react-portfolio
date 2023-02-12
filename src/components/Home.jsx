@@ -19,7 +19,7 @@ const Home = () => {
           Boxing aficionado, military vet, and Jamaican-born immigrant; There are no challenges too difficult to tackle.
           </p>
 
-          <div>
+          <div className="port">
             <Link
               to="portfolio"
               smooth
