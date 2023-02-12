@@ -23,7 +23,7 @@ const Portfolio = () => {
     {
       id: 3,
       src: shill,
-      link: 'https://pet-lyfe.netlify.app/' ,
+      link: 'https://shill-social.netlify.app/' ,
       repo:  'https://github.com/Brandon-Alvarez-03/pet-style-mern',
     },
    
