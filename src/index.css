@@ -11,3 +11,12 @@
     font-family: 'Raleway', sans-serif;
   }
 }
+@media(max-width: 450px){
+.about-div{
+  padding-top:800px ;
+}
+.port{
+ bottom: 200px;
+}
+
+}
